@@ -67,12 +67,12 @@ This JavaFX project provides a graphical user interface to convert between diffe
 
 ---
 
-## ✨ Sample Screenshots (Optional)
+## ✨ Sample Screenshots 
 
-```
 ### Main UI
-![Expression Converter Screenshot](path-to-your-screenshot.png)
-```
+![Expression Converter Screenshot](exconv1.png)
+![Expression Converter Screenshot](exconv2.png)
+
 
 ---
 
