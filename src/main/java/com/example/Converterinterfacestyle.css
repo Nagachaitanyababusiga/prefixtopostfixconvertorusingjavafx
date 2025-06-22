@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: linear-gradient( #ee6fc4,#dff16e, #a458e2);
+    -fx-font-size: 10pt;
+}
+.button{
+    -fx-background-color: #ed1616;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 10;
+}
+.button-green{
+    -fx-background-color: #04d867;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 10;
+}

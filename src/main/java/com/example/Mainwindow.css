@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: linear-gradient( #8c7183,#a6b44c, #3980e4);
+    -fx-font-size: 10pt;
+}
+.button{
+    -fx-background-color: #04d867;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 10;
+}
+.label{
+    -fx-text-fill : #b91a1a;
+    -fx-font-size : 13pt;
+    font-style: italic;
+}
+.button-red{
+    -fx-background-color: #ed1616;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 10;
+}

@@ -1,0 +1,6 @@
+infix: A+(B*C)-(D/E)          prefix: -+A*BC/DE
+infix: A+(B*C)-(D/E)          postfix: ABC*+DE/-
+prefix: +A-*BC/DE             postfix:  ABC*DE/-+
+prefix: +A-*BC/DE             infix:    A+(B*C)-(D/E)  
+postfix: ABCD*+-              prefix: -A+B*CD
+postfix: ABCD*+-              infix:  (A-(B+(C*D)))
